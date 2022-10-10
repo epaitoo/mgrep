@@ -11,7 +11,7 @@
  ## Getting Started
  These instructions will get you a copy of the project up and running on your local machine.
  
- - Click on the 'Clone or download' button and select 'Download Zip.'
+ - Click on the 'Clone or download' button or select 'Download Zip.'
  - Move to the project directory using the terminal 
  - Navigate the main directory and run the application with the `go run main.go` command
  - To perform a search use the command: `mgrep [SUBSTR_TO_SEARCH] [SEARCH_DIRECTORY]`
